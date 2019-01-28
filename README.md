@@ -1,10 +1,7 @@
-# Werewolves of Thiercellieux GM Helper
+# Loups-Garous de Thiercelieux MDJ Helper
 
-This helper has been made with SFML-2.4.2 and SFGui-0.3.2.
-The code may be poor-designed but the intent of this project is not to have a well-organized or optimized code, but a functional tool that all GM may use for their games.
-
-You can do almost everything with this software, please just keep in mind a few things :
-* I am not responsible for damage of any sort due to the misuse of this software.
-* You can not claim the original software as yours, and if you redistribute it, please acknowledge me and precise whether it has been modified or not.
-* You can not sell this product or redistribute under any other condition, whether you have modified it or not.
-* If you improve or fix a bug, sending me the correction would be highly appreciated, but is not required.
+Ce programme a été fait avec SFML-2.4.2 et SFGui-0.3.2.
+Ce projet est l'un de mes premiers projets de programmation "distribuable", par conséquent :
+- Le code est mal organisé et ne reflète absolument pas ma méthode de travail actuelle.
+- Le code n'est plus maintenu et n'est plus mis à jour, malgré les nombreux bugs présents dans le programme.
+- Ce projet était principalement un test pour voir ce qu'il était possible de faire avec SFGui, sa distribution n'était que pour partager un travail qui pouvait être utile pour les MDJ sur le site Loups-Garous-en-ligne
